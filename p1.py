@@ -1,7 +1,4 @@
-class Anode:
-	def __init__(self,key):
-		self.key=key
-		self.next=None
+
 class Graph:
 	def __init__(self,n):
 		self.n=n;
